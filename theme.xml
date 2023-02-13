@@ -134,11 +134,11 @@ GitHub:      	https://github.com/20GotoTen/es-theme-retrofix
 		<menuText name="menutext">
 			<fontPath>./_inc/fonts/SST.ttf</fontPath>
 			<fontSize>0.025</fontSize>
-			<color>A6C6D1</color>
-			<selectorColor>0F85A5</selectorColor>
-			<selectorColorEnd>0F6585</selectorColorEnd>
+			<color>d9d9d9</color>
+			<selectorColor>FF2222</selectorColor>
+			<selectorColorEnd>FF2222</selectorColorEnd>
 			<selectedColor>ffffff</selectedColor>
-			<separatorColor>0C3F53</separatorColor>
+			<separatorColor>303030</separatorColor>
 		</menuText>
 
 		<menuTextSmall name="menutextsmall">
