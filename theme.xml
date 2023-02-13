@@ -960,6 +960,7 @@ GitHub:      	https://github.com/20GotoTen/es-theme-retrofix
 
 	<subset name="buttonSet" displayName="${subset.buttonSet}">
 		<include name="All system buttons"/>
+		<include name="Disabled">./_inc/system/buttons/disabled.xml</include>
 		<include name="Generic buttons">./_inc/system/buttons/generic.xml</include>
 		<include name="Master System">./_inc/system/buttons/mastersystem.xml</include>
 		<include name="SG-1000">./_inc/system/buttons/sg1000.xml</include>

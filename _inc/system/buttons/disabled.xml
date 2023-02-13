@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		<image name="startSet" extra="static">
+			<visible>false</visible>
+		</image>
+	</view>
+
+	<view name="basic,detailed,grid">
+		<image name="btnSet" extra="true">
+			<visible>false</visible>
+		</image>
+	</view>
+
+	<customView name="Tiles" inherits="grid">
+		<image name="btnSet" extra="true">
+			<visible>false</visible>
+		</image>
+	</customView>
+
+</theme>
