@@ -1,0 +1,33 @@
+<theme>
+	<formatVersion>7</formatVersion>
+
+<view name="detailed">
+ 		<image name="md_image">
+ 			<visible>false</visible>
+ 		</image>
+ 		<video name="md_video">
+			<delay>0</delay>
+		</video>
+	</view>
+
+<customView name="Boxes">
+ 		<image name="md_image">
+ 			<visible>false</visible>
+ 		</image>
+ 		<video name="md_video">
+			<delay>0</delay>
+		</video>
+	</customView>
+
+
+<customView name="Tiles">
+ 		<image name="md_image">
+ 			<visible>false</visible>
+ 		</image>
+	 	<video name="md_video">
+			<delay>0</delay>
+		</video>
+</customView>
+
+
+</theme>

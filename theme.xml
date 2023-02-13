@@ -939,6 +939,7 @@ GitHub:      	https://github.com/20GotoTen/es-theme-retrofix
 
 
 	<subset name="videoDelay" displayName="${subset.videoDelay}">
+		<include name="0 Seconds">./_inc/system/video/0seconds.xml</include>
 		<include name="2 Seconds"/>
 		<include name="5 Seconds">./_inc/system/video/5seconds.xml</include>
 		<include name="video off">./_inc/system/video/videooff.xml</include>
@@ -952,6 +953,7 @@ GitHub:      	https://github.com/20GotoTen/es-theme-retrofix
 
 
 	<subset name="systemsVideoDelay" displayName="${subset.systemsVideoDelay}">
+		<include name="0 Seconds">./_inc/system/video/systems-0seconds.xml</include>
 		<include name="2 Seconds"/>
 		<include name="5 Seconds">./_inc/system/video/systems-5seconds.xml</include>
 		<include name="video off">./_inc/system/video/systems-videooff.xml</include>
